@@ -1,5 +1,5 @@
 class Person
-    attr_accessor :name
+    attr_accessor :name, :match
     attr_reader :spouse
 
     @@all = []
@@ -7,6 +7,7 @@ class Person
     def initialize(name:, spouse: nil)
         @name = name
         self.spouse = spouse
+        @match = nil
     end
 
     def save
@@ -34,8 +35,8 @@ class Person
         @@all.find { |person| person.name == name }
     end
 
-    def self.create(name:)
-        person = self.new(name: name)
+    def self.create(name:, spouse: nil)
+        person = self.new(name: name, spouse: spouse)
         person.save
         person
     end
