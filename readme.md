@@ -1,6 +1,6 @@
 # Secret Santa
 
-![Master](https://github.com/Sillhouette/secret_santa/workflows/Master/badge.svg) ![Develop](https://github.com/Sillhouette/secret_santa/workflows/Develop/badge.svg) 
+![Master](https://github.com/Sillhouette/secret_santa/workflows/Master/badge.svg) ![Develop](https://github.com/Sillhouette/secret_santa/workflows/Develop/badge.svg) ![Coverage](https://github.com/Sillhouette/secret_santa/assets/coverage/coverage_badge_total.png)
 
 A small secret santa cli app used to choose recipients of secret santa gifts in a group of people
 
