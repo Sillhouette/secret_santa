@@ -1,5 +1,5 @@
 GIT
-  remote: git@github.com:MarcGrimme/simplecov-small-badge.git
+  remote: https://github.com/MarcGrimme/simplecov-small-badge.git
   revision: 2d86571748417ed6884ae57c6594d20cb04e9f19
   specs:
     simplecov-small-badge (0.2.4)
