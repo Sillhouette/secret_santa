@@ -1,5 +1,7 @@
 # Secret Santa
 
+![Master](https://github.com/Sillhouette/secret_santa/workflows/Master/badge.svg) ![Develop](https://github.com/Sillhouette/secret_santa/workflows/Develop/badge.svg) 
+
 A small secret santa cli app used to choose recipients of secret santa gifts in a group of people
 
 ## Requirements
@@ -20,4 +22,4 @@ A small secret santa cli app used to choose recipients of secret santa gifts in 
 ### Tests:
 - Use `rspec` to run the tests
 
-This project has been licensed under the MIT open source license.
+This project has been [Licensed](https://github.com/Sillhouette/secret_santa/blob/master/LICENSE.md) under the MIT open source license.
