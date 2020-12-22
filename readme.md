@@ -21,5 +21,6 @@ A small secret santa cli app used to choose recipients of secret santa gifts in 
 
 ### Tests:
 - Use `rspec` to run the tests
+- Tests include a code coverage check
 
 This project has been [Licensed](https://github.com/Sillhouette/secret_santa/blob/master/LICENSE.md) under the MIT open source license.
