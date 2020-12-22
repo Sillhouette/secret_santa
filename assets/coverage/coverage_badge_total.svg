@@ -11,16 +11,16 @@
 <rect height="20" width="120" rx="3" fill="#fff"/>
 </clipPath>
 <g clip-path="url(#round)">
-<rect height="20" width="60" fill="#555"/>
-<rect x="60" height="20" width="60" fill="#4dc71f"/>
+<rect height="20" width="60" fill="#3F4851"/>
+<rect x="60" height="20" width="60" fill="#32C753"/>
 <rect height="20" width="120" fill="url(#smooth)"/>
 </g>
 <g fill="#fff" text-anchor="middle" font-family="Verdana,sans-serif" font-size="11">
 <text x="30" y="15" fill="#010101" fill-opacity="0.3">
-scov total
+Coverage total
 </text>
 <text x="30" y="14">
-scov total
+Coverage total
 </text>
 </g>
 <g fill="#fff" text-anchor="middle" font-family="Verdana,sans-serif" font-size="11">
